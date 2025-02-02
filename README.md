@@ -1,2 +1,2 @@
 # Projetos-Diversos
-Alguns projetos...
+Alguns projetos feitos em HTML, CSS e JavaScript
